@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--移位动画效果
+    android:fromXDelta="0" 自身
+    android:toXDelta="200" 向右
+    android:fromYDelta="0" 自身
+    android:toYDelta="200" 向下
+    android:duration="1000" 持续时间
+
+
+-->
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromXDelta="0"
+    android:toXDelta="0"
+    android:fromYDelta="0"
+    android:toYDelta="-200"
+    android:duration="1000"
+    >
+
+</translate>
