@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
-        android:text="弹一弹"
+        android:text="点这里弹窗"
         android:textSize="50sp" />
 
     <TextView
