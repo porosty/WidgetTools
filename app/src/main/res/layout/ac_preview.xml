@@ -9,11 +9,12 @@
 
     <TextView
         android:id="@+id/tv_choose_id"
+        android:layout_marginTop="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:text="点这里弹窗"
-        android:textSize="50sp" />
+        android:textSize="30sp" />
 
     <TextView
         android:id="@+id/tv_id_type"
